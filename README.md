@@ -113,6 +113,6 @@ Sometimes, Wi-Fi issues are beyond your control and originate from your ISP. Fir
 
 To wrap up, we've covered a range of troubleshooting steps, from basic checks to advanced fixes. Always start with simple solutions like restarting your devices and running Windows' built-in troubleshooter. If the issue persists, updating drivers and resetting network settings often help. If you've tried everything and still have problems, it may be time to consult a technician or replace your router. Finally, keeping your system updated is key—Microsoft regularly releases patches to fix connectivity bugs.
  
-  <h2></h2>
+<h2></h2>
 <p align="center">
-  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
